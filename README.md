@@ -1,6 +1,14 @@
 # Snake Game
 
-Welcome to the Snake Game! This is a classic implementation of the Snake game using Python.
+A simple Snake game implemented in Python using the turtle library.
+
+## Features 
+
+- **Classic Snake gameplay** 
+- **Simple graphics using the `turtle` library** 
+- **Keyboard controls for movement**
+- **Food spawning at random positions**
+- **Collision detection**
 
 ## How to Play
 
