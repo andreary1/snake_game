@@ -47,11 +47,4 @@ A simple Snake game implemented in Python using the turtle library.
      ```bash
      python main.py
      ```
-
-## Notes
-
-- **Avoid Unintended Key Presses**: Pressing keys other than the arrow keys may cause the game to stop automatically.
-- **Self-Collision**: If you press opposite direction keys (e.g., up and down) simultaneously, the snake will collide with itself, resulting in a game over.
-- **Restarting the Game**: If you lose, the game will return to the command prompt. To restart, simply run the game again using the instructions above.
-
 Enjoy the game!
